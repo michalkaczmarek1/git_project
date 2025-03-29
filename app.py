@@ -1,0 +1,5 @@
+print('H')
+print('W')
+print('A')
+print('1')
+print('2')
